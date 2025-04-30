@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbas-ali-dev&show_icons=true&locale=en&layout=compact" alt="abbas-ali-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbas-ali-dev&show_icons=true&locale=en" alt="abbas-ali-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-ali-dev&" alt="abbas-ali-dev" /></p>
