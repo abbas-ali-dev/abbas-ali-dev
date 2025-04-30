@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, AI and Data Science**
 
-- 👨‍💻 All of my projects are available at [abbas-ali-dev](github.com/abbas-ali-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/abbas-ali-dev](https://github.com/abbas-ali-dev)
 
 - 💬 Ask me about **Flutter or Dart.**
 
