@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbas-ali-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abbas-ali-dev" /> </p>
 
-- 🌱 I’m currently learning **Python, AI and Data Science**
+- 🌱 I’m currently learning **Python, AI and Data Science** 
 
 - 👨‍💻 All of my projects are available at [abbas-ali-dev](https://github.com/abbas-ali-dev)
 
